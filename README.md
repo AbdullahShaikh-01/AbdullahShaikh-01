@@ -1,22 +1,48 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Abdullah%20Babu&fontSize=60&fontColor=ffffff&animation=twinkling&desc=B.Tech%20Computer%20Science%20Student%20%7C%20Future%20Software%20Engineer&descAlignY=68"/>
-</p>
+Create a premium 3D GitHub profile header/banner for a Computer Science student.
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B+I'm+Abdullah+Babu;B.Tech+Computer+Science+Student+at+LPU;Learning+Java+%7C+Python+%7C+DSA;Exploring+Web+Development;Future+Software+Engineer;Building+Projects+One+Commit+at+a+Time"/>
-</p>
+Style:
+- Ultra-modern, futuristic, minimal, and professional.
+- Dark theme with glassmorphism and soft neon lighting.
+- 3D typography with realistic depth and subtle reflections.
+- Blue, cyan, and purple gradient lighting.
+- High-end UI/UX aesthetic similar to Apple, Linear, or Vercel branding.
+- Clean composition with plenty of negative space.
+- No anime, no cartoon style, no gaming aesthetic.
 
-<!-- Tagline -->
-<p align="center">
-  <b>💻 Software Engineering Enthusiast • ☕ Java • 🐍 Python • 📚 Data Structures & Algorithms • 🌐 Web Development</b>
-</p>
+Main Text (Large 3D):
+Abdullah Babu
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahbabu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+Subtitle:
+B.Tech Computer Science Student
+Future Software Engineer
+
+Floating Tech Elements:
+☕ Java
+🐍 Python
+📚 Data Structures & Algorithms
+🌐 Web Development
+🐙 Git & GitHub
+
+Background:
+- Dark navy to black gradient.
+- Abstract glowing geometric shapes.
+- Floating code snippets and circuit lines.
+- Glass panels with subtle blur.
+- Tiny glowing particles.
+- Soft ambient lighting.
+- Modern digital workspace atmosphere.
+
+Design Requirements:
+- Cinematic lighting.
+- Premium 3D metallic text.
+- Professional portfolio quality.
+- Minimal and elegant.
+- High contrast for GitHub dark mode.
+- 16:9 aspect ratio (1600×400 or 1920×480).
+- Ultra HD (4K quality).
+- No watermark.
+- No logos.
+- No extra text except the specified title and subtitle.
 
 ## About
 
