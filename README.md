@@ -1,319 +1,118 @@
-# ROLE
+<!-- ======================= HEADER ======================= -->
 
-You are an award-winning UI/UX designer, GitHub Profile README expert, Software Engineer, and Technical Recruiter.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Abdullah%20Babu&fontSize=60&fontColor=ffffff&animation=twinkling&desc=B.Tech%20Computer%20Science%20Student%20%7C%20Future%20Software%20Engineer&descAlignY=68"/>
+</p>
 
-Your task is to create a premium GitHub Profile README that looks like it belongs to a future Software Engineer preparing for internships at companies like Google, Microsoft, Amazon, Atlassian, Adobe, and Oracle.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Abdullah+Babu;Computer+Science+Student;Learning+Java;Learning+Python;Learning+Data+Structures+%26+Algorithms;Exploring+Web+Development;Future+Software+Engineer;Building+Projects+Every+Day;Never+Stop+Learning"/>
+</p>
 
-The final README should feel like a professional portfolio instead of a normal GitHub README.
+<p align="center">
+  <b>💻 Future Software Engineer • ☕ Java • 🐍 Python • 📚 Data Structures & Algorithms • 🌐 Web Development</b>
+</p>
 
-------------------------------------------------------------
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahbabu&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+</p>
 
-# ABOUT ME
+---
 
-Name:
-Abdullah Babu
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
 
-University:
-Lovely Professional University (LPU)
+# 👨‍💻 About Me
 
-Degree:
-Bachelor of Technology (B.Tech)
+🎓 B.Tech Computer Science student at **Lovely Professional University (LPU), India**
 
-Branch:
-Computer Science & Engineering
+🌱 Currently learning **Java, Python, HTML, CSS, JavaScript, Git, GitHub, and Data Structures & Algorithms**
 
-Country:
-India
+💡 Interested in **Software Development, Problem Solving, Open Source, Web Development, and Cyber Security**
 
-Current Status:
-Computer Science Student
+🚀 Working towards becoming a **Software Engineer** by building practical projects and strengthening problem-solving skills.
 
-Current Skills:
+📫 **Email:** mdabdullahbabu94@gmail.com
 
-• Java
-• Python
-• C
-• HTML
-• CSS
-• JavaScript
-• Git
-• GitHub
-• VS Code
+---
 
-Currently Learning:
+# 🌐 Connect With Me
 
-• Object-Oriented Programming
-• Data Structures & Algorithms
-• Problem Solving
-• Web Development
+<p align="left">
+<a href="https://www.linkedin.com/in/abdullah-babu-319892335" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-Career Goal:
+<a href="mailto:mdabdullahbabu94@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
-Become a Software Engineer.
+<a href="https://instagram.com/abdullahbabu_01" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
 
-Interests:
+<a href="https://github.com/abdullahbabu" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
 
-Software Engineering
+---
 
-Backend Development
+# 🛠️ Tech Stack
 
-Problem Solving
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,git,github,vscode&perline=9" />
+</p>
 
-Open Source
+---
 
-Cyber Security
+# 📊 GitHub Statistics
 
-Email:
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullahbabu&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahbabu&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-mdabdullahbabu94@gmail.com
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=abdullahbabu&theme=tokyonight&hide_border=true"/>
+</p>
 
-LinkedIn:
+---
 
-https://www.linkedin.com/in/abdullah-babu-319892335
+# 📈 Contribution Graph
 
-------------------------------------------------------------
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahbabu&theme=tokyo-night&hide_border=true"/>
+</p>
 
-# DESIGN STYLE
+---
 
-Create a PREMIUM profile.
+# 🏆 GitHub Trophies
 
-Not colorful.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abdullahbabu&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+</p>
 
-Not childish.
+---
 
-Not overloaded.
+# 🎯 Current Goals
 
-Minimal.
+- 📚 Master Java and Object-Oriented Programming
+- 🧩 Solve Data Structures & Algorithms problems consistently
+- 🌐 Build full-stack development fundamentals
+- 🚀 Create impactful projects
+- 💼 Prepare for Software Engineering internships
 
-Elegant.
+---
 
-Luxury.
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-Dark Theme.
+---
 
-Modern.
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
 
-Developer Portfolio Style.
-
-Use spacing similar to Apple.
-
-Use typography similar to Linear.app.
-
-Use GitHub Dark Theme colors.
-
-Every section must have equal spacing.
-
-Everything must be perfectly aligned.
-
-Mobile friendly.
-
-Desktop friendly.
-
-------------------------------------------------------------
-
-# HEADER
-
-Create a premium animated header.
-
-Use Capsule Render.
-
-Animation:
-Twinkling
-
-Gradient:
-Blue → Purple
-
-Font:
-Modern
-
-Below that create a professional typing animation.
-
-Use JetBrains Mono.
-
-Typing lines:
-
-Hi 👋 I'm Abdullah Babu
-
-Computer Science Student
-
-Learning Java
-
-Learning Python
-
-Learning Data Structures & Algorithms
-
-Exploring Web Development
-
-Future Software Engineer
-
-Building Projects Every Day
-
-Open Source Learner
-
-Never Stop Learning
-
-------------------------------------------------------------
-
-# ABOUT SECTION
-
-Create a clean About Me section.
-
-Only 6 bullet points.
-
-Do NOT exaggerate.
-
-Mention only technologies I actually know.
-
-No fake experience.
-
-No fake achievements.
-
-------------------------------------------------------------
-
-# CODING GIF
-
-Place a modern coding GIF on the right.
-
-Choose one that perfectly matches GitHub Dark Theme.
-
-------------------------------------------------------------
-
-# TECH STACK
-
-Use Skill Icons ONLY.
-
-Do NOT use Shields badges.
-
-Include ONLY:
-
-Java
-
-Python
-
-C
-
-HTML
-
-CSS
-
-JavaScript
-
-Git
-
-GitHub
-
-VS Code
-
-------------------------------------------------------------
-
-# GITHUB STATS
-
-Include:
-
-GitHub Stats
-
-Top Languages
-
-GitHub Streak
-
-Contribution Graph
-
-GitHub Trophies
-
-All using one matching theme.
-
-Use GitHub Dark or Tokyo Night.
-
-Hide borders.
-
-Keep perfect spacing.
-
-------------------------------------------------------------
-
-# CONNECT WITH ME
-
-Use modern icons.
-
-LinkedIn
-
-Instagram
-
-Email
-
-GitHub
-
-Do NOT include unused platforms.
-
-------------------------------------------------------------
-
-# OPTIONAL SECTIONS
-
-Pinned Projects
-
-Current Learning
-
-Goals 2026
-
-Quote
-
-Visitor Counter
-
-------------------------------------------------------------
-
-# DO NOT INCLUDE
-
-React
-
-Node.js
-
-Express
-
-MongoDB
-
-SQL
-
-Docker
-
-AWS
-
-Kubernetes
-
-Spring Boot
-
-Linux
-
-AI/ML
-
-Flutter
-
-DevOps
-
-Any technology I haven't learned yet.
-
-------------------------------------------------------------
-
-# OUTPUT REQUIREMENTS
-
-Generate one complete README.md.
-
-Ready to paste directly into GitHub.
-
-No placeholders.
-
-No explanations.
-
-No comments.
-
-No markdown code fences.
-
-No TODOs.
-
-No duplicate sections.
-
-No broken links.
-
-Use premium spacing.
-
-Everything should render correctly on GitHub.
-
-The final profile should look clean, modern, elegant, recruiter-friendly, and unique while accurately reflecting my current skills and learning journey.
+<p align="center">
+<i>"Keep learning, keep building, and let your work speak for itself."</i>
+</p>
