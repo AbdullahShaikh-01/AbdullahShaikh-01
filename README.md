@@ -39,10 +39,8 @@
   <rect x="18" y="16" width="864" height="188" rx="14" fill="url(#panel)" filter="url(#softShadow)"/>
   <rect x="18" y="16" width="864" height="188" rx="14" fill="none" stroke="#4c3b8a" stroke-width="1"/>
 
-  <!-- top accent line, centered -->
   <rect x="325" y="30" width="250" height="4" rx="2" fill="url(#accent)"/>
 
-  <!-- extruded centered 3D text -->
   <text x="452" y="112" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#0a0a18">Abdullah Babu</text>
   <text x="450" y="110" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#1e1240">Abdullah Babu</text>
   <text x="448" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="url(#textFill)" filter="url(#textShadow)">Abdullah Babu</text>
@@ -55,7 +53,6 @@
     Java &#183; Python &#183; Data Structures &amp; Algorithms &#183; Web Development
   </text>
 
-  <!-- symmetric floating accents on both sides for balance -->
   <circle cx="90" cy="60" r="5" fill="#22d3ee" filter="url(#glow)" opacity="0.8"/>
   <circle cx="810" cy="60" r="5" fill="#8b5cf6" filter="url(#glow)" opacity="0.8"/>
   <circle cx="70" cy="160" r="3.5" fill="#6366f1" filter="url(#glow)" opacity="0.7"/>
@@ -71,6 +68,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-babu-319892335)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdabdullahbabu94@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdullahShaikh-01)
+![Profile Views](https://komarev.com/ghpvc/?username=AbdullahShaikh-01&style=flat-square&color=8b5cf6&label=Profile+Views)
 
 </div>
 
