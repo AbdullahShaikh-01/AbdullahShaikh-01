@@ -1,11 +1,22 @@
-<div align="center">
-Abdullah Babu
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Abdullah%20Babu&fontSize=60&fontColor=ffffff&animation=twinkling&desc=B.Tech%20Computer%20Science%20Student%20%7C%20Future%20Software%20Engineer&descAlignY=68"/>
+</p>
 
-Software Engineer (SDE) Aspirant · B.Tech CSE @ Lovely Professional University
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B+I'm+Abdullah+Babu;B.Tech+Computer+Science+Student+at+LPU;Learning+Java+%7C+Python+%7C+DSA;Exploring+Web+Development;Future+Software+Engineer;Building+Projects+One+Commit+at+a+Time"/>
+</p>
 
-Show Image Show Image Show Image
+<!-- Tagline -->
+<p align="center">
+  <b>💻 Software Engineering Enthusiast • ☕ Java • 🐍 Python • 📚 Data Structures & Algorithms • 🌐 Web Development</b>
+</p>
 
-</div> <br/>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahbabu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ## About
 
