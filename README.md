@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
 # Abdullah Babu
 
 **Software Engineer (SDE) Aspirant** · B.Tech CSE @ Lovely Professional University
@@ -14,6 +16,8 @@
 
 ## About
 
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
+
 I'm a Computer Science undergraduate at LPU focused on building strong fundamentals in Data Structures & Algorithms and full-stack development, with the goal of securing a Software Engineer role at a product-based company. I work primarily in Java and Python, and I'm actively developing web fundamentals alongside daily DSA practice.
 
 - 🎓 B.Tech CSE, Lovely Professional University, Punjab (2025–2029)
@@ -21,7 +25,7 @@ I'm a Computer Science undergraduate at LPU focused on building strong fundament
 - 🧠 Currently sharpening: Data Structures & Algorithms, Java, Python
 - 🌐 Also exploring: Open Source contribution, Web Development, Cyber Security fundamentals
 
-<br/>
+<br clear="right"/>
 
 ## Tech Stack
 
@@ -73,6 +77,8 @@ I'm a Computer Science undergraduate at LPU focused on building strong fundament
 <br/>
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="400">
 
 **Open to Software Engineering internships and entry-level roles.**
 Reach out via [LinkedIn](https://www.linkedin.com/in/abdullah-babu-319892335) or [email](mailto:mdabdullahbabu94@gmail.com).
