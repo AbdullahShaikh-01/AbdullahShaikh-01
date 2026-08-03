@@ -13,21 +13,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="assets/banner-3d.svg" width="100%">
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-babu-319892335)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdabdullahbabu94@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdullahShaikh-01)
-![Profile Views](https://komarev.com/ghpvc/?username=AbdullahShaikh-01&style=flat-square&color=8b5cf6&label=Profile+Views)
-
-</div>
-
-<br/>
-
 ## About
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
