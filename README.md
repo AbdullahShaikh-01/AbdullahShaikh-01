@@ -1,17 +1,33 @@
-<div align="center">
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#0f1a2e"/>
+      <stop offset="100%" stop-color="#12294d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
 
-# Abdullah Babu
+  <rect width="900" height="200" rx="14" fill="url(#bg)"/>
+  <rect width="900" height="200" rx="14" fill="none" stroke="#1e3a5f" stroke-width="1.5"/>
 
-**Software Engineer (SDE) Aspirant** · B.Tech CSE @ Lovely Professional University
+  <rect x="0" y="0" width="6" height="200" fill="url(#accent)"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-babu-319892335)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdabdullahbabu94@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdullahShaikh-01)
-![Profile Views](https://komarev.com/ghpvc/?username=AbdullahShaikh-01&style=flat-square&color=3b82f6&label=Profile+Views)
+  <text x="55" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">
+    Abdullah Babu
+  </text>
 
-</div>
+  <text x="55" y="130" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#93c5fd">
+    Software Engineer (SDE) Aspirant &#183; B.Tech CSE @ Lovely Professional University
+  </text>
 
-<br/>
+  <text x="55" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#6b8cae">
+    Java &#183; Python &#183; Data Structures &amp; Algorithms &#183; Web Development
+  </text>
+</svg>
 
 ## About
 
