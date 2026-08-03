@@ -13,7 +13,24 @@
 
 <br/>
 
+<div align="center">
+
+<img src="assets/banner-3d.svg" width="100%">
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-babu-319892335)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdabdullahbabu94@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdullahShaikh-01)
+![Profile Views](https://komarev.com/ghpvc/?username=AbdullahShaikh-01&style=flat-square&color=8b5cf6&label=Profile+Views)
+
+</div>
+
+<br/>
+
 ## About
+
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
 
 I'm a Computer Science undergraduate at LPU focused on building strong fundamentals in Data Structures & Algorithms and full-stack development, with the goal of securing a Software Engineer role at a product-based company. I work primarily in Java and Python, and I'm actively developing web fundamentals alongside daily DSA practice.
 
@@ -22,7 +39,7 @@ I'm a Computer Science undergraduate at LPU focused on building strong fundament
 - 🧠 Currently sharpening: Data Structures & Algorithms, Java, Python
 - 🌐 Also exploring: Open Source contribution, Web Development, Cyber Security fundamentals
 
-<br/>
+<br clear="right"/>
 
 ## Tech Stack
 
@@ -46,12 +63,12 @@ I'm a Computer Science undergraduate at LPU focused on building strong fundament
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahShaikh-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahShaikh-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahShaikh-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=22d3ee&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahShaikh-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="38%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=AbdullahShaikh-01&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=AbdullahShaikh-01&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=22d3ee&fire=8b5cf6&currStreakLabel=22d3ee" width="70%" />
 
 </div>
 
@@ -60,7 +77,7 @@ I'm a Computer Science undergraduate at LPU focused on building strong fundament
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahShaikh-01&theme=react-dark&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahShaikh-01&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=22d3ee" width="95%" />
 </div>
 
 <br/>
@@ -74,6 +91,8 @@ I'm a Computer Science undergraduate at LPU focused on building strong fundament
 <br/>
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="400">
 
 **Open to Software Engineering internships and entry-level roles.**
 Reach out via [LinkedIn](https://www.linkedin.com/in/abdullah-babu-319892335) or [email](mailto:mdabdullahbabu94@gmail.com).
