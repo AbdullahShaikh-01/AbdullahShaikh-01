@@ -52,7 +52,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahShaikh-01&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=AbdullahShaikh-01&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" width="70%" />
 
 </div>
 
