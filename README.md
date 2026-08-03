@@ -1,53 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:3b82f6&height=220&section=header&text=Abdullah%20Babu&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20in%20the%20Making&descAlignY=52&descSize=18&animation=fadeIn" width="100%"/>
+# Abdullah Babu
 
-<br/>
+**Software Engineer (SDE) Aspirant** · B.Tech CSE @ Lovely Professional University
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+LPU+%2C+Punjab;Aspiring+Software+Engineer+(SDE);Java+%7C+Python+%7C+DSA+%7C+Web+Dev;Open+to+Internship+Opportunities" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/abdullah-babu-319892335" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mdabdullahbabu94@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-babu-319892335)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdabdullahbabu94@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdullahShaikh-01)
 
 </div>
 
 <br/>
 
-## 📌 About Me
+## About
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/typing-code.gif" />
+I'm a Computer Science undergraduate at LPU focused on building strong fundamentals in Data Structures & Algorithms and full-stack development, with the goal of securing a Software Engineer role at a product-based company. I work primarily in Java and Python, and I'm actively developing web fundamentals alongside daily DSA practice.
 
-- 🎓 B.Tech in **Computer Science & Engineering**, Lovely Professional University, Punjab
-- 🎯 Career Goal: Landing a **Software Engineer (SDE)** role at a product-based company
-- 🛠️ Currently strengthening: **Java, Python, HTML, CSS, JavaScript, Git/GitHub, and Data Structures & Algorithms**
-- 💡 Interested in: Software Development, Problem Solving, Open Source, Web Development, and Cyber Security
-- 🌱 Building consistency through daily DSA practice and hands-on projects
-- 📫 Reach me at: **mdabdullahbabu94@gmail.com**
-- ⚡ Fun fact: I believe clean logic beats clever tricks every time
+- 🎓 B.Tech CSE, Lovely Professional University, Punjab (2025–2029)
+- 🎯 Target: Software Engineering internship / entry-level SDE role
+- 🧠 Currently sharpening: Data Structures & Algorithms, Java, Python
+- 🌐 Also exploring: Open Source contribution, Web Development, Cyber Security fundamentals
 
-<br clear="right"/>
+<br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,vscode&theme=dark" />
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahShaikh-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahShaikh-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahShaikh-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9" width="38%" />
 
 <br/>
@@ -56,13 +54,17 @@
 
 </div>
 
-## 📈 Contribution Graph
+<br/>
+
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahShaikh-01&theme=react-dark&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff" width="95%" />
 </div>
 
-## 🏆 GitHub Trophies
+<br/>
+
+## Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdullahShaikh-01&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" />
@@ -71,9 +73,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0d1117&height=100&section=footer"/>
-</div>
 
-<div align="center">
-  <sub>⭐ Open to Software Engineering Internships & Entry-Level Roles — let's connect!</sub>
+**Open to Software Engineering internships and entry-level roles.**
+Reach out via [LinkedIn](https://www.linkedin.com/in/abdullah-babu-319892335) or [email](mailto:mdabdullahbabu94@gmail.com).
+
 </div>
