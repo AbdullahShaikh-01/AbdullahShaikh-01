@@ -1,40 +1,11 @@
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0a14"/>
-      <stop offset="50%" stop-color="#170f2e"/>
-      <stop offset="100%" stop-color="#0f2438"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8b5cf6"/>
-      <stop offset="50%" stop-color="#6366f1"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
-    </linearGradient>
-    <linearGradient id="panel" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#1c1638"/>
-      <stop offset="100%" stop-color="#0d1626"/>
-    </linearGradient>
-  </defs>
+<div align="center">
+Abdullah Babu
 
-  <rect width="900" height="200" rx="16" fill="url(#bg)"/>
+Software Engineer (SDE) Aspirant · B.Tech CSE @ Lovely Professional University
 
-  <rect x="18" y="16" width="864" height="168" rx="14" fill="url(#panel)"/>
-  <rect x="18" y="16" width="864" height="168" rx="14" fill="none" stroke="#4c3b8a" stroke-width="1"/>
+Show Image Show Image Show Image
 
-  <rect x="325" y="30" width="250" height="4" rx="2" fill="url(#accent)"/>
-
-  <text x="450" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">
-    Abdullah Babu
-  </text>
-
-  <text x="450" y="130" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#a5b4fc">
-    Software Engineer (SDE) Aspirant &#183; B.Tech CSE @ Lovely Professional University
-  </text>
-
-  <text x="450" y="158" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#67e8f9">
-    Java &#183; Python &#183; Data Structures &amp; Algorithms &#183; Web Development
-  </text>
-</svg>
+</div> <br/>
 
 ## About
 
