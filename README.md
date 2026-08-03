@@ -17,8 +17,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullahbabu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
-## 👨‍💻 About Me
+                                       👨‍💻 About Me
 
 - 🎓 I'm **Abdullah Babu**, a B.Tech Computer Science student at **Lovely Professional University (LPU), India**.
 - 🌱 Currently learning **Java, Python, HTML, CSS, JavaScript, Git, GitHub, and Data Structures & Algorithms**.
