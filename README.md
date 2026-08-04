@@ -49,8 +49,8 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
-<a href="https://github.com/abdullahbabu" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<a href="https://leetcode.com/u/AbdullahShaikh_001/" target="_blank">
+<img src="https://premiumatcheap.in/wp-content/uploads/2025/12/leetcode.webp" height="45"/>
 </a>
 </p>
 
