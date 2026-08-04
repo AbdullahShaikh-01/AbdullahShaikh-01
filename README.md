@@ -37,17 +37,14 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abdullah-babu-319892335" target="_blank">
+<a href="www.linkedin.com/in/abdullahshaikhcse" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:mdabdullahbabu94@gmail.com">
+<a href="mdabdullahbabu94@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://instagram.com/abdullahbabu_01" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
 
 <a href="https://leetcode.com/u/AbdullahShaikh_001/" target="_blank">
 <img src="https://premiumatcheap.in/wp-content/uploads/2025/12/leetcode.webp" height="45"/>
