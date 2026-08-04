@@ -37,7 +37,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/abdullahshaikhcse" target="_blank">
+<a href="https://www.linkedin.com/in/abdullahshaikhcse/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
